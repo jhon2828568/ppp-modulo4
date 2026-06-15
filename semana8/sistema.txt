@@ -1,0 +1,5 @@
+Qué información muestra cada comando.
+- uname -a:
+- whoami:
+
+Por qué es útil conocer información del sistema cuando se administra un servidor.
